@@ -28,7 +28,4 @@ then run
   python Camera.py
 ```
 
-## Feedback
-
-If you have any feedback, please reach out to me on Discord - imleakii
 
